@@ -11,12 +11,12 @@ Clone the repo using:
 
 Submodules:
 
-- [] [3PO dataset]()
-- [] [C3PO dataset]()
+- [ ] [3PO dataset]()
+- [ ] [C3PO dataset]()
 - [x] [DDRender](https://github.com/o-kbc/dr-render)
-- [] [Yolo-6DoF-Detector]()
-- [] [NeRFAug]()
-- [] [Track&Flow]()
+- [ ] [Yolo-6DoF-Detector]()
+- [ ] [NeRFAug]()
+- [ ] [Track&Flow]()
 
 Refer to the README in submodules to find the requirements and usage instructions
 
